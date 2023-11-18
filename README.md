@@ -1,28 +1,28 @@
-# Habilidades
-Neste projeto, eu fui capaz de:
+# Skills
+In this project, I was able to:
 
-  * Utilizar JSX no React
+   * Use JSX in React
 
-  * Utilizar corretamente o método `render()` para renderizar seus componentes
+   * Correctly use the `render()` method to render your components
 
-  * Utilizar `import` para trazer componentes em diferentes arquivos
+   * Use `import` to bring components into different files
 
-  * Criar componentes de classe em React
+   * Create class components in React
 
-  * Criar múltiplos componentes a partir de um array
+   * Create multiple components from an array
 
-  * Fazer uso de `props` corretamente
+   * Make use of `props` correctly
 
-  * Fazer uso de `PropTypes` para validar as `props de um componente`
+   * Make use of `PropTypes` to validate the `props of a component`
 
-## O que foi desenvolvido
+## What was developed
 
-Neste projeto eu desenvolvi uma aplicação em React com criação de componentes de classe e passagem de props. Essa aplicação simulará uma visualização do **Sistema Solar**, bem como informações sobre diversas missões espacias que ocorreram ao longo da história. Ao utilizar essa aplicação uma pessoa usuária deverá ser capaz de:
+In this project I developed an application in React with creating class components and passing props. This application will simulate a visualization of the **Solar System**, as well as information about various space missions that have occurred throughout history. When using this application, a user must be able to:
 
-  * Visualizar todos os planetas do sistema solar renderizados na tela;
+   * View all planets in the solar system rendered on the screen;
 
-  * Visualizar todas as cartas com informações sobre missões espaciais;
+   * View all cards with information about space missions;
 
-## Arquivos disponibilizados pela Trybe
+## Files made available by Trybe
 
-As pastas data, images e planets foram fornecidas pela Trybe.
+The data, images and planets folders were provided by Trybe.
